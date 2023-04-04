@@ -23,7 +23,7 @@ The lessons are organizes into modules with the idea that they can taught somewh
 
 Materials should be completed prior to arriving at any in-person training.
 
-### Module 1: [Introduction to CNNs]()
+### Module 1: [Introduction to CNNs](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/ETP5G7utx9BGpdHvi2OrkMgBAnYWKWbO1h0OumfEekymqg?e=bp0NRi)
 
 * Review of Deep Learning fundamentals.  
 * The morning session will focus on the theory behind Convolutional Neural Networks (CNNs) by covering relevant portions of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) and [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312).    
@@ -31,7 +31,9 @@ Materials should be completed prior to arriving at any in-person training.
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
 |--------------|:------------------------:|:------------------:|
+| Introduction to Computer Vision with PyTorch| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-computer-vision/blob/master/notebooks/02a-intro-to-computer-vision-with-pytorch.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-computer-vision/blob/master/notebooks/02a-intro-to-computer-vision-with-pytorch.ipynb) |
 | Introduction to Computer Vision with PyTorch Lightning| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-computer-vision/blob/master/notebooks/02a-intro-to-computer-vision-with-pytorch-lightning.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-computer-vision/blob/master/notebooks/02a-intro-to-computer-vision-with-pytorch-lightning.ipynb) |
+| Introduction to Convolutional Neural Networks (CNNs)| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-computer-vision/blob/master/notebooks/02b-convolutional-neural-networks.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-computer-vision/blob/master/notebooks/02b-convolutional-neural-networks.ipynb) |
 
 ### Module 2: [Introduction to Autoencoders]()
 
