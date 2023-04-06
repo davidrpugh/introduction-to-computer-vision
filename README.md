@@ -35,7 +35,7 @@ Materials should be completed prior to arriving at any in-person training.
 | Introduction to Computer Vision with PyTorch Lightning| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-computer-vision/blob/master/notebooks/02a-intro-to-computer-vision-with-pytorch-lightning.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-computer-vision/blob/master/notebooks/02a-intro-to-computer-vision-with-pytorch-lightning.ipynb) |
 | Introduction to Convolutional Neural Networks (CNNs)| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-computer-vision/blob/master/notebooks/02b-convolutional-neural-networks.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-computer-vision/blob/master/notebooks/02b-convolutional-neural-networks.ipynb) |
 
-### Module 2: [Introduction to Autoencoders]()
+### Module 2: [Introduction to Autoencoders](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EevkNmNazcJItwCMeVr0OZoB6mK7xnCnq_UVqjQ0vPcV6Q?e=PiJ5oc)
 
 * Consolidation of previous content via Q/A and live coding demonstrations.    
 * The morning session will focus on the theory behind Autoencoders by covering relevant portions of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) and [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312).    
@@ -45,7 +45,7 @@ Materials should be completed prior to arriving at any in-person training.
 |--------------|:------------------------:|:------------------:|
 | Introduction to Autoencoders with PyTorch Lightning| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-computer-vision/blob/master/notebooks/02c-intro-to-autoencoders-with-pytorch-lightning.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-computer-vision/blob/master/notebooks/02c-intro-to-autoencoders-with-pytorch-lightning.ipynb) |
 
-### Module 3: [Introduction to GANs]()
+### Module 3: [Introduction to GANs](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EYeA91rwioVBnfzMTNm6aYAB7ypOng9rvg72_qPgztJz5Q?e=UCk8M0)
 
 * Consolidation of previous content via Q/A and live coding demonstrations.    
 * The morning session will focus on the theory behind Generative Adversarial Networks (GANs) by covering relevant portions of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) and [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312).    
@@ -54,7 +54,7 @@ Materials should be completed prior to arriving at any in-person training.
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
 |--------------|:------------------------:|:------------------:|
 
-### Module 4: [Introduction to Diffusion Models]()
+### Module 4: [Introduction to Diffusion Models](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EeFtlQDU2dFPlW2P3-EPuasBLCWhKd6nyaX-bCDqqMhGLg?e=UBeU78)
 
 * Consolidation of previous content via Q/A and live coding demonstrations.    
 * The morning session will focus on the theory behind Diffusion Models by covering relevant portions of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) and [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312).    
